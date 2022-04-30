@@ -1,5 +1,6 @@
 # Compiled class file
-geometria-web/build/*.class
+build/classes
+.class
 
 # Log file
 *.log
